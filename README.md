@@ -19,12 +19,6 @@
 - [🌐 My Portfolio](https://svyatoslavw.vercel.app) – Personal website
 - [📝 RNDMCV](https://rndmcv.com) – A full-featured cv builder with flexible customization and built-in AI
 
-## 📊 GitHub Stats:
-<div style="display: flex">
- <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svyatoslavw&layout=compact&theme=tokyonight" alt="stats1" >
- <img height="200px" src="https://github-readme-stats.vercel.app/api?username=svyatoslavw&show_icons=true&theme=tokyonight" alt="stats1" >
-</div>
-
 ## 🤝 Looking for Collaboration:
 💡 Open for interesting projects! If you have an idea, write to [Telegram](https://t.me/svy4tosl0v3)
 
