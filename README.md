@@ -1,5 +1,3 @@
-![banner](https://github.com/user-attachments/assets/c32737eb-e104-48e8-99dd-fb65c2af6157)
-
 ## 💫 About Me:
 🌀 Developer with huge ambitions and a desire to learn something new
 
